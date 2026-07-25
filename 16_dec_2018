@@ -1,0 +1,110 @@
+Delivered-To: sandboxescaper@gmail.com
+Received: by 2002:a50:f4ab:0:0:0:0:0 with SMTP id s40csp1139143edm; Sat, 15 Dec 2018 15:24:03 -0800 (PST)
+X-Google-Smtp-Source: AFSGD/V3DLWQqsCf1gWMy04lmWcfWhEgxlOgBqpxPjyo7014DfJmkKqG2cT19MtSZQww2k/TKtho
+X-Received: by 2002:a37:c0db:: with SMTP id v88mr7308214qkv.288.1544916243599; Sat, 15 Dec 2018 15:24:03 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1544916243; cv=none; d=google.com; s=arc-20160816; b=JOzkxeaU7X1IUfYT3FajpMif7S/LpzXJzyHH93nDenKAeJ7k/c7BqfUJmTffQN3tlg Eh6Gc3Hvmclk6eukHXhfaiPwdViBCF+XHF4fNSROcsq7Wi1tte2VKUl6a/j6vIvuZon2 Pj6pgvQwSN4ytzhi6nkz/qs5T+K8/5KyuPB5Yu36yF9eEJiBFSTsguAs62IeYdcbjaLl RBMGrkwn2CTv5QObIuSafFigMXXkfqMYDDFOUvdc7CM1shhSac0nhuSzg4jjh0nXvgk1 dqhls2Hr7+4LaCxJdu5+/b+CRafSwkTVd4kjngMMO6UYGHXolH2O38kbi1ZXPffXePEW TMoQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816; h=dkim-signature:content-transfer-encoding:subject:from:to:date :message-id:mime-version; bh=qoWZyDDNub7tXxFUyqqqZ/5REaGMkfTzyLuVLEdEPg4=; b=XcCDptcbWFmXMmA+r0yyGziVunpxLDa8+CXlalpRlONYXVaezw1mA5QwWrxNTqxJfL WhWDF7jJvHKTbhd9+XjadmI1wytaT8DSVNGkZG0C9xytfupN2B4f9gTJsN5wPjOF5sP8 Je52gJpO6hIyA2UYiDbPsZ5Gnk4cvzmUPBXQmfOj2h9JlC5u0JOOPHnSYKeOKaGpJM0N u5TUmwsSMG6xxx0LARyW/XCEGuhXZ1v1CPrXHQUiD5UjKqlgddw76TFpoVSlZRtHM6K1 X9OEaICKzlF714E8kvNPo+K8V24pDnafWMcf5m028b0rDsXjPha5lBtAg/FUq6eBteAi dJeA==
+ARC-Authentication-Results: i=1; mx.google.com; dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=AJRurcU2; spf=pass (google.com: domain of gdr00t+brlwisj6ew8o8@guerrillamail.com designates 167.114.101.158 as permitted sender) smtp.mailfrom=gdr00t+brlwisj6ew8o8@guerrillamail.com; dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Return-Path: <gdr00t+brlwisj6ew8o8@guerrillamail.com>
+Received: from mail.guerrillamail.com (server9.guerrillamail.com. [167.114.101.158]) by mx.google.com with ESMTPS id r25si5094511qtt.10.2018.12.15.15.24.03 for <sandboxescaper@gmail.com> (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Sat, 15 Dec 2018 15:24:03 -0800 (PST)
+Received-SPF: pass (google.com: domain of gdr00t+brlwisj6ew8o8@guerrillamail.com designates 167.114.101.158 as permitted sender) client-ip=167.114.101.158;
+Authentication-Results: mx.google.com; dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=AJRurcU2; spf=pass (google.com: domain of gdr00t+brlwisj6ew8o8@guerrillamail.com designates 167.114.101.158 as permitted sender) smtp.mailfrom=gdr00t+brlwisj6ew8o8@guerrillamail.com; dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Received: by 167.114.101.158 with HTTP; Sat, 15 Dec 2018 23:24:02 +0000
+MIME-Version: 1.0
+Message-ID: <8637c1a507db1272bcb59798d27074f5f621@guerrillamail.com>
+Date: Sat, 15 Dec 2018 23:24:02 +0000
+To: "sandboxescaper@gmail.com" <sandboxescaper@gmail.com>
+From: <gdr00t+brlwisj6ew8o8@guerrillamail.com>
+Subject: Hey tranny
+X-Originating-IP: [173.177.31.11]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Domain-Signer: PHP mailDomainSigner 0.2-20110415 <http://code.google.com/p/php-mail-domain-signer/>
+DKIM-Signature: v=1; a=rsa-sha256; s=highgrade; d=guerrillamail.com; l=4103; t=1544916242; c=relaxed/relaxed; h=to:from:subject; bh=qoWZyDDNub7tXxFUyqqqZ/5REaGMkfTzyLuVLEdEPg4=; b=AJRurcU2NrgyKGwZOk3ZtmTMBRtk3QeYs7hK4jHJpHDNp/LSTHQHTM4jEecdVTmVdJ+j5Cq0guU5 9RtwAIZoQJfdVy3weKOJg+TBfR6WV/757bXbPQKhCRH41pn0sYhUgOoNgqLroY8DYVsahSw9SObS 9iLVxdh7C4A0b8mZrJI1ptfP4XhzjPEpJFlSI2yUIv2RBXqhgPa3NIXtXmvz/nMNdrLlCk2onNB0 2BzFVzNCAVUlu0BrboOpLIWCUTh4s2fTEmNTXLW5DCn/ugE1VlSC6D2nwFdXts6oVQWxW5ec59A/ fYp/YS7bpBEuopkVDrRqMywbb1hH7YM4JICZMA==
+
+You need to be told something important, something none of your tranny frie=
+nds will tell you and none of the ugly, lonely cat ladies that out little h=
+earts on your tweets will tell you.=20
+YOU. WILL. NEVER- PASS.=20
+Never. Not gonna happen. It's impossible. Okay, like one in a thousand of y=
+ou do, and that's some guy who's 5'5", has a slight build, and always had a=
+ weak chin---and even he doesn't have a 100% pass rate.=20
+You delude yourselves into thinking you might pass some day by sharing phot=
+os online...where you spent two hours on make-up, hid your massive man-hand=
+s, threw your shoulders back and took about a dozen different shots until t=
+he angle masked enough of your masculine features that a decent percentage =
+of people's brains were tricked into thinking "female" due the lipstick, ey=
+eshadow, and hairdo.=20
+But here's the reality, and l see it every couple of days where l live:=20
+1. No tranny has fortitude to make himself up like a blow-up doll every sin=
+gle day, because no woman does, either. And even when he does, you know wha=
+t? He stands out because real women only doll themselves up like that for s=
+pecial occasions (and they usually don't go that far, either). So when l se=
+e a dolled-up tranny, l always notice. Always. A real woman can put on jean=
+s and a T-shirt and head to Home Depot to pick up some paint brushes, and n=
+obody will think she's a guy. But when a tranny isn't dolled up, he just lo=
+oks like a dude with a pony tail and purse- Your average woman doesn't go t=
+hrough that exhausting regimen every day. She can look cute and appealing w=
+ith 15 minutes of prep and clothes that fit. You can't. You will look like =
+a fucking tranny if you do that.=20
+2. Even if you think you fooled some guys with pictures online; guess what,=
+ your male=20
+skeleton will never move and look like a female skeleton. It's just physics=
+. Evolution=20
+has gifted men with the ability to suss out fakes with surprising effective=
+ness. Men are=20
+attracted to secondary sex characteristics -all of them- and you can only m=
+imic a=20
+few with paint & pads. We will notice your masculine gait, your broad shoul=
+ders, your=20
+wide forehead, your flipper-like feet; and your enormous hands. Even if a g=
+uy doesn't=20
+figure out that you're a tranny; he'll have a feeling of uneasiness and dis=
+comfort he=20
+can't quite explain and instinctively recoil from you=20
+
+3. If you don't kill yourself, you are going to get old. And you know what?=
+ Men don't=20
+age like women do, evne when you're shooting up estrogen. The older you get=
+, the=20
+more you're going to look like an old man in a dress. Have you thought abou=
+t what life=20
+is going to be like as a 60-year-old tranny? You won't be caking on the mak=
+e-up and=20
+heading to nightclubs to fool young men. People will just see you as a weir=
+d freak=20
+Women at that age are no longer sex objects; they find fulfillment in their=
+ families and=20
+social groups. You will be ostracized from all social groups. And you'll ha=
+ve no family,=20
+of course.=20
+
+4. You're probably going to kill yourself because you'll never pass. As tim=
+e drags on,=20
+your failure to pass means everyone will look at you with disgust The most =
+social=20
+affirmation you will ever get is from cat ladies who use you to status-sign=
+al to other=20
+cat ladies, but they don't actually like you or see you as a woman. The onl=
+y men who=20
+will ever date you are either fags or total losers. And the world around yo=
+u will react=20
+with discomfort and horror whenever you go out to just buy some fucking too=
+thpaste=20
+or whatever Humans need to be socially connected; and your failure to achie=
+ve that=20
+will result in this soul-draining void that eventually convinces you that l=
+ife isn't worth=20
+living.=20
+
+Deeply, everyone hate trannies and are disgusted by you.
+
+
+
+
+
+----
+Sent using Guerrillamail.com
+Block or report abuse: https://www.guerrillamail.com//abuse/?a=3DUkB6AQ8PW7=
+EGiw%2Bk9Ww%2FdRnGRMbe0dhd
+
