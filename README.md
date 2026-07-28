@@ -11,4 +11,4 @@ Update: Seems like there is some infosec group of incels with members in the US 
 
 Update: And he doesnt stop. I will proceed now filing a formal complaint. Congrats on ruining your own future and life.
 
-Definitely a group of people.. this new stalker has a very different MO from the past one who wrote long elaborate emails trying to attack my insecurities. Previous one kept cycling email accounts and never, over a 7 year period, replied. Unlike this new one. But either way it doesn't matter, stalking is stalking and harassment is harassment.
+Definitely a group of people.. this new stalker has a very different MO from the past one who wrote long elaborate emails trying to attack my insecurities. Previous one kept cycling email accounts and never, over a 7 year period, replied. Unlike this new one. But either way it doesn't matter, stalking is stalking and harassment is harassment and I've had enough. With some luck a prosecutor will pick up the case..
