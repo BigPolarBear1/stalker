@@ -1,0 +1,45 @@
+Delivered-To: sandboxescaper@gmail.com
+Received: by 2002:a50:f4ab:0:0:0:0:0 with SMTP id s40csp1228664edm; Thu, 22 Nov 2018 11:42:38 -0800 (PST)
+X-Google-Smtp-Source: AFSGD/U3d0QhyerxcxyeSrauqmjIQ2ds5r/1VP50MQKaOVIwpjqKRsHRAIW1uLIrxTsNcBxbgrur
+X-Received: by 2002:a37:4cd7:: with SMTP id z206mr11327700qka.233.1542915758592; Thu, 22 Nov 2018 11:42:38 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1542915758; cv=none; d=google.com; s=arc-20160816; b=Unz/Wutw8NS49wJ74zfVPxLhB1aeHGi63ylTzcz8Wee+g293/Lat9T2nxvI3w/YWWh WlZoutBj1EeO3aE5wyzCvhvEyVMbKBXbt18MIGor2cxOtquP74bwou8aOWQ72apRoSzY WASrZRolL4+DTe5N6sXxoU+LX6tZnR/V0WGErbm0RyyHNMORIifXlCy0bbw2Us8juhRp jf5QgERw+WpKK4t9cliiN8TMe5l7y5IGhYQkUteUF+SZD+DsUYOpQrHmxf5i8ag5li4y gG3FZK3B9/csRZ4oD9RXRzH7PHos7pU2Jb1AknvA+RNyitc28hf2x3p6En9ls1D/rawx BQBQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816; h=dkim-signature:content-transfer-encoding:subject:from:to:date :message-id:mime-version; bh=SjhAphiD/JoIYCdqhAtNO9bX6nZQQ0IR7i3rBLJb0zU=; b=tq6jIV5+gLGNd6iyJTRIYqY2MTyqnxPPqjUb/u7eVmzB0wz1vMwc0Re9w6hfh1RzKP Pgec1ocbb7p/+xHha/YzjRamKf+nrGmsb9AxVz9v2zHKrjM5LOUrG9xTEOZjAJYDynjB IBmZvRyxaXCm7rxDM0zP6GJmVlqIK3hGMeAHs6/PdrfGPvjVb7PCkwfzg9cDPJB6CgKX z+u140QpAWDJQ53iSkoKLABOUZgx5W+vSrSNdWKXxPrGdUYnuLBI6Lmtm6ogS0wq20Fv euMxAW6eWsYJ23617+cCPwjjSQ4NSBpm6l3HKoruEQ3Dx694Jd0KR3zQu1ZZt4e9JbQB Ytcw==
+ARC-Authentication-Results: i=1; mx.google.com; dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=wC0a9gtn; spf=pass (google.com: domain of g0hl2f+5nfust5zq308c@guerrillamail.com designates 167.114.101.158 as permitted sender) smtp.mailfrom=g0hl2f+5nfust5zq308c@guerrillamail.com; dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Return-Path: <g0hl2f+5nfust5zq308c@guerrillamail.com>
+Received: from mail.guerrillamail.com (server9.guerrillamail.com. [167.114.101.158]) by mx.google.com with ESMTPS id o63si336505qka.164.2018.11.22.11.42.38 for <sandboxescaper@gmail.com> (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128); Thu, 22 Nov 2018 11:42:38 -0800 (PST)
+Received-SPF: pass (google.com: domain of g0hl2f+5nfust5zq308c@guerrillamail.com designates 167.114.101.158 as permitted sender) client-ip=167.114.101.158;
+Authentication-Results: mx.google.com; dkim=pass header.i=@guerrillamail.com header.s=highgrade header.b=wC0a9gtn; spf=pass (google.com: domain of g0hl2f+5nfust5zq308c@guerrillamail.com designates 167.114.101.158 as permitted sender) smtp.mailfrom=g0hl2f+5nfust5zq308c@guerrillamail.com; dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=guerrillamail.com
+Received: by 167.114.101.158 with HTTP; Thu, 22 Nov 2018 19:42:37 +0000
+MIME-Version: 1.0
+Message-ID: <131c6c05a72532ebb164f945fd8ee6456086@guerrillamail.com>
+Date: Thu, 22 Nov 2018 19:42:37 +0000
+To: "sandboxescaper@gmail.com" <sandboxescaper@gmail.com>
+From: <g0hl2f+5nfust5zq308c@guerrillamail.com>
+Subject: Hello from high school
+X-Originating-IP: [173.177.31.11]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Domain-Signer: PHP mailDomainSigner 0.2-20110415 <http://code.google.com/p/php-mail-domain-signer/>
+DKIM-Signature: v=1; a=rsa-sha256; s=highgrade; d=guerrillamail.com; l=681; t=1542915757; c=relaxed/relaxed; h=to:from:subject; bh=SjhAphiD/JoIYCdqhAtNO9bX6nZQQ0IR7i3rBLJb0zU=; b=wC0a9gtn4wJmAAWZ+NPHZGEYpdX5ZlGYsnS7sBCLi5/uoCkcZs0dfc/iiPZPPdCUO2SdI7gphu76 gLaVbo0akuoEN7N1X0MT2jPXNDagzOLAYN40hR3Qj1m0hP/uSrb11XEwXJVkqjcrlhSKY8d8ZAs1 cpE08uTEGUQoERdLu/UFZJJtia6fdyoeFoDewaLYYvzk+9AGuThjXny61gQVdymBVq6vFjTbfqDt MpNhQI6vaRiBCwC7y2vnvkx7wPLFvPiv3rimK/sZlF6M2SrgdRYzgeLgA+S4VkA3Ym6vuCgRC9eN 9xJWXnBot3CLhPKzhm+4Cf+r+2KFSpw87YOhIg==
+
+Hi Thomas,
+
+We went to high scool together, we don't know each other directly but i rem=
+ember you. FYI, a few months ago I participated to a high school meeting wi=
+th the students who graduated . At my table someone mentioned that you had =
+gone crazy and went transgender.... He showed a recent photo of you on his =
+cellphone and everyone started laughing.=20
+
+You were a brilliant young man, i am sorry to see that you wasted your life=
+ with this transgender fad. You dont pass at all
+
+Bye
+
+
+
+
+
+----
+Sent using Guerrillamail.com
+Block or report abuse: https://www.guerrillamail.com//abuse/?a=3DUkB6AQ8PW7=
+EGiw%2Bk9Ww%2FdRnGRMbe0dhd
