@@ -1,0 +1,88 @@
+On Thu, 11 Nov 2021, 00:50 yuriyaroslav128, <yuriyaroslav128@protonmail.com> wrote:
+I just want to let you know that you will never be a real woman. You have no womb, you have no ovaries, you have no eggs. You are a homosexual man twisted by drugs and surgery into a crude mockery of nature’s perfection.
+
+All the “validation” you get is two-faced and half-hearted. Behind your back people mock you. Your parents are disgusted and ashamed of you, your “friends” laugh at your ghoulish appearance behind closed doors.
+
+Men are utterly repulsed by you. Thousands of years of evolution have allowed men to sniff out frauds with incredible efficiency. Even trannies who “pass” look uncanny and unnatural to a man. Your bone structure is a dead giveaway. And even if you manage to get a drunk guy home with you, he’ll turn tail and bolt the second he gets a whiff of your diseased, infected axe wound.
+
+You will never be happy. You wrench out a fake smile every single morning and tell yourself it’s going to be ok, but deep inside you feel the depression creeping up like a weed, ready to crush you under the unbearable weight.
+
+Eventually it’ll be too much to bear - you’ll buy a rope, tie a noose, put it around your neck, and plunge into the cold abyss. Your parents will find you, heartbroken but relieved that they no longer have to live with the unbearable shame and disappointment. They’ll bury you with a headstone marked with your birth name, and every passerby for the rest of eternity will know a man is buried there. Your body will decay and go back to the dust, and all that will remain of your legacy is a skeleton that is unmistakably male.
+
+This is your fate.
+This is what you chose.
+There is no turning back.
+
+Delivered-To: sandboxescaper@gmail.com
+Received: by 2002:adf:d086:0:0:0:0:0 with SMTP id y6csp161655wrh;
+        Wed, 10 Nov 2021 16:50:21 -0800 (PST)
+X-Google-Smtp-Source:
+ABdhPJy1yKeNBuy9pH2vCSzltaHu5qSvI0rB2dGU5oZncCqiAUMqlPezCe1A6um1xBhT+ZaLcQG7
+X-Received: by 2002:a17:906:e115:: with SMTP id
+gj21mr4200608ejb.348.1636591821521;
+        Wed, 10 Nov 2021 16:50:21 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1636591821; cv=none;
+        d=google.com; s=arc-20160816;
+        b=xBjYHSvW1ZcI4eeaceolIhasFXvG1mZCSMu1dCne3EYY4lTjwIMqP1OG1gtFJw9AiL
+         KXPzPOgMVjhzNtHNYN92DGn8UPTXnRCsSkxQlAjChp7lg6WJWfC1SF+AcltXGMVeYLD/
+         lepSweX7SgLdDgWj9pIbqTpbabIjPZ88un92TMpfFBh1IqxXrmyMLMjtIDDu9irilNTl
+         ukFJw+vYDokrhiig8a9bUgCsrbentTVd4OvecBOuYuPWbCV6lNbrUVXJslSU7YkVBct7
+         wCEGL8Gspngh5nK+E+N1cMlQWRimyuFDpTZw2EXYQCskIo/h9OtjaXWo/PoL7WdH81H8
+         FhiQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed;
+d=google.com; s=arc-20160816;
+        h=mime-version:message-id:subject:reply-to:from:to:dkim-signature
+         :date;
+        bh=gYuCgCjrbRUS+8Opc+kRMkQARJUI6LKrrsho1uMzlaI=;
+        b=XN3QL44W2JkVSRDdmZ5Ks/xYda9ODOZ50Ia4oDFZcuw2tXzM/BDPzVQbBg6Pp/NSBR
+         QhaOQaGuDLK1MikKch7UFcP5kxsV7r+YxgjJ/rMRRrkdQr0JKrYb9fFB6eDi4a48G9O/
+         iFT2RI+6oDbQAYJIKKNPFDd+iQEzGzzOBLJorNCzCSiED/S95DCmQwSJSi67EGFIns2e
+         DruO9gCcu4UJKPUhRAPaXNE8VsS2pFV2pqDLiSpRbSYJ8Ui3suTzuknIaKORunnQR1tV
+         +ribjwjF4n6FxgKOJEG5zWYC0TTPTPuZmhAdzxIV4EUAZUOWu9/OaToQS2x7Z1bM0Wkz
+         dCYA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@protonmail.com header.s=protonmail header.b=gCfXaWID;
+       spf=pass (google.com: domain of yuriyaroslav128@protonmail.com
+designates 185.70.40.141 as permitted sender)
+smtp.mailfrom=yuriyaroslav128@protonmail.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE)
+header.from=protonmail.com
+Return-Path: <yuriyaroslav128@protonmail.com>
+Received: from mail-40141.protonmail.ch (mail-40141.protonmail.ch.
+[185.70.40.141])
+        by mx.google.com with ESMTPS id w20si2818324eje.578.2021.11.10.16.50.21
+        for <sandboxescaper@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 10 Nov 2021 16:50:21 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+yuriyaroslav128@protonmail.com designates 185.70.40.141 as permitted
+sender) client-ip=185.70.40.141;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@protonmail.com header.s=protonmail header.b=gCfXaWID;
+       spf=pass (google.com: domain of yuriyaroslav128@protonmail.com
+designates 185.70.40.141 as permitted sender)
+smtp.mailfrom=yuriyaroslav128@protonmail.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE)
+header.from=protonmail.com
+Date: Thu, 11 Nov 2021 00:50:12 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=protonmail.com; s=protonmail; t=1636591820;
+bh=gYuCgCjrbRUS+8Opc+kRMkQARJUI6LKrrsho1uMzlaI=;
+h=Date:To:From:Reply-To:Subject:From;
+b=gCfXaWIDQmRCk9bLo1bYnPZVKqQsv2cDrmFH6nWjnhVeLZERIKZ2cSKdAel83kT6i
+	 eo8UzQI43m9ft37h/i0mxheUonCTrCm8UMVihZzBSbb00UGGyjnM48RJ3GA8c5PLIL
+	 1HbUZejax6oikjXIcIDaYS10m7xlJWK3SYA3stv0=
+To: "sandboxescaper@gmail.com" <sandboxescaper@gmail.com>
+From: yuriyaroslav128 <yuriyaroslav128@protonmail.com>
+Reply-To: yuriyaroslav128 <yuriyaroslav128@protonmail.com>
+Subject: Key insights
+Message-ID: <p0B9mt9h9rTiE4F62nBT8C_LgXs1NdHKoXsTXH7YtZnxkpe5qFfX7DTgU1bDp35JC6YSlZVwFGZ2wnakYonSfUF9Fp91mz0QiBTXGItYKVY=@protonmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+boundary="b1_iIR42uqTrOvtOWgzTQehG2b5jZWb1mLdNrTBptVWo"
+X-Spam-Status: No, score=-0.7 required=10.0
+tests=ALL_TRUSTED,DKIM_SIGNED,
+DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,FREEMAIL_ENVFROM_END_DIGIT,
+FREEMAIL_FROM,FREEMAIL_REPLYTO_END_DIGIT,HTML_MESSAGE shortcircuit=no
+autolearn=disabled version=3.4.4
+X-Spam-Checker-Version: SpamAssassin 3.4.4 (2020-01-24) on mailout.protonmail.ch
